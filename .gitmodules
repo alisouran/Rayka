@@ -1,0 +1,12 @@
+[submodule "mero"]
+	path = mero
+	url = https://github.com/darshanbaral/mero.git
+[submodule "themes/mero"]
+	path = themes/mero
+	url = https://github.com/darshanbaral/mero.git
+[submodule "themes/hugo-dream-plus"]
+	path = themes/hugo-dream-plus
+	url = https://github.com/UtkarshVerma/hugo-dream-plus.git
+[submodule "themes/hugo-theme-dream"]
+	path = themes/hugo-theme-dream
+	url = https://github.com/g1eny0ung/hugo-theme-dream.git
